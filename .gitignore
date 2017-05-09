@@ -1,0 +1,25 @@
+*#
+.#*
+*-stamp
+/*.yaml
+/*.yml
+/*.rules
+*.exe
+
+# Editor files #
+################
+*~
+.*.swp
+.*.swo
+*.iml
+.idea
+
+benchmark.txt
+/data
+/.build
+/.release
+/.tarballs
+
+!/circle.yml
+!/.travis.yml
+!/.promu.yml
