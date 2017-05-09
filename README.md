@@ -2,5 +2,6 @@
 
 A high performance TSDB
 
-## START
+## TEST
 
+go run cmd/main.go  
